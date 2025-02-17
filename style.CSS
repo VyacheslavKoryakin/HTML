@@ -1,0 +1,26 @@
+*{
+   margin-left: 10px;
+   margin-right: 300px;
+
+   
+}
+.full-text{
+    background-color:rgb(228, 223, 223);
+    font-size: 100%;
+    font-family: Calibri;
+
+}
+.full-text h1{
+    text-align: center;
+    color: rgb(96, 61, 177);
+}
+.full-text h3{
+    color: rgba(49, 78, 243, 0.808);
+}
+.full-text h4{
+    color: rgba(49, 78, 243, 0.808);
+}
+.full-text .p1{
+    font-style: italic;
+    font-size: 80%;
+}
